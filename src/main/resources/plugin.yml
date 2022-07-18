@@ -1,0 +1,4 @@
+name: SimpleItemGenerator
+version: '${project.version}'
+main: nit.ds.mc.simpleitemgenerator.SimpleItemGenerator
+api-version: 1.17
